@@ -1,7 +1,7 @@
-package com.tfl.shayon.springboot.photoz.service;
+package com.tfl.shahrukh.springboot.photoz.service;
 
-import com.tfl.shayon.springboot.photoz.model.Photo;
-import com.tfl.shayon.springboot.photoz.repository.PhotozRepository;
+import com.tfl.shahrukh.springboot.photoz.model.Photo;
+import com.tfl.shahrukh.springboot.photoz.repository.PhotozRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.UUID;

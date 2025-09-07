@@ -1,7 +1,7 @@
-package com.tfl.shayon.springboot.photoz.web;
+package com.tfl.shahrukh.springboot.photoz.web;
 
-import com.tfl.shayon.springboot.photoz.model.Photo;
-import com.tfl.shayon.springboot.photoz.service.PhotozService;
+import com.tfl.shahrukh.springboot.photoz.model.Photo;
+import com.tfl.shahrukh.springboot.photoz.service.PhotozService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;

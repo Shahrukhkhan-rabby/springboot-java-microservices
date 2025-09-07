@@ -1,4 +1,4 @@
-package com.tfl.shayon.springboot.photoz;
+package com.tfl.shahrukh.springboot.photoz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

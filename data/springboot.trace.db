@@ -239,4 +239,4 @@ CREATE TABLE IF NOT EXISTS photoz( id BIGINT default hibernate_sequence.nextval 
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1302)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1291)
-	at com.tfl.shayon.springboot.photoz.SpringbootPhotozApplication.main(SpringbootPhotozApplication.java:10)
+	at com.tfl.shahrukh.springboot.photoz.SpringbootPhotozApplication.main(SpringbootPhotozApplication.java:10)

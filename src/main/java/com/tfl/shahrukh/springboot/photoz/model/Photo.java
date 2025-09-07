@@ -1,4 +1,4 @@
-package com.tfl.shayon.springboot.photoz.model;
+package com.tfl.shahrukh.springboot.photoz.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.annotation.Generated;
